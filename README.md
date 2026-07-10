@@ -570,8 +570,34 @@ open_to:
   - AI and Machine Learning Opportunities
   - Hackathons
   - Open Source Contributions
-Connect With Me
-<div align="center"> <a href="mailto:mmaaishwarya@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-CONTACT_ME-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/m-a-aishwarya-0b00292a3"> <img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Aishwarya26953"> <img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-312E81?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+```
+
+---
+
+## Connect With Me
+
 <div align="center">
-Learning by building. Growing through challenges. Turning ideas into working projects.
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:312E81,70:6D28D9,100:7C3AED&height=120&section=footer"/> </div> ```
+
+<a href="mailto:mmaaishwarya@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-CONTACT_ME-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/m-a-aishwarya-0b00292a3">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Aishwarya26953">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Learning by building. Growing through challenges. Turning ideas into working projects.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:312E81,70:6D28D9,100:7C3AED&height=120&section=footer"/>
+
+</div>
