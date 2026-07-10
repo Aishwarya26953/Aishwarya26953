@@ -518,6 +518,8 @@ Completed through Forage · June 2026
 
 ---
 
+---
+
 ## Contribution Activity
 
 <div align="center">
