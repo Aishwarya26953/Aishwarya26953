@@ -120,7 +120,11 @@ Java · Web · AI/ML
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,render,vercel"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Render-Deployment-6D28D9?style=for-the-badge&logo=render&logoColor=white"/>
 
 </div>
 
