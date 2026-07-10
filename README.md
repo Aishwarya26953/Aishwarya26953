@@ -508,11 +508,11 @@ Completed through Forage · June 2026
 
 ---
 
-## GitHub Trophies
+## Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aishwarya26953&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aishwarya26953&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
