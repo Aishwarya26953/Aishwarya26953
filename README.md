@@ -38,9 +38,7 @@ I enjoy learning through hands-on development, building software projects, parti
 
 - Participated in **6+ hackathons**, including national-level hackathons.
 - Received **2 Best Project Awards** and **1 Best UI/UX Award**.
-- Participated in the **24-hour National Level Hackathon — HACK-OLYMPIC 2026** at JSS Science and Technology University, Mysuru.
 - Received **Certificate of Excellence** and **Certificate of Participation** in **Devengers DevQuest 2026 — Frontend, Programming & DSA Challenge**.
-- Completed the **Tata GenAI Powered Data Analytics Job Simulation through Forage**.
 - Completed internships in **Java Programming, Web Development, and AI & Machine Learning**.
 - Built projects using **Python, Java, C, HTML, CSS, JavaScript, React.js, Node.js, Flutter, Dart, FastAPI, MySQL, and MongoDB**.
 - Interested in software development internships, full-stack development, AI/ML opportunities, hackathons, and open-source collaboration.
@@ -364,6 +362,80 @@ An interactive typing speed test web application developed using HTML, CSS, and 
 | **National-Level Hackathon Participant** | HACK-OLYMPIC 2026 — 24-Hour National Level Hackathon at JSS Science and Technology University, Mysuru |
 | **Certificate of Excellence** | Devengers DevQuest 2026 — Frontend, Programming & DSA Challenge |
 | **Certificate of Participation** | Devengers DevQuest 2026 — Frontend, Programming & DSA Challenge |
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aishwarya26953/Aishwarya26953/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aishwarya26953/Aishwarya26953/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Aishwarya26953/Aishwarya26953/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+learning:
+  - Programming and Problem Solving
+  - Full Stack Development
+  - Artificial Intelligence
+  - Machine Learning
+  - Generative AI and Data Analytics
+
+building:
+  - Full Stack Applications
+  - AI-Based Applications
+  - Software Engineering Projects
+  - Hackathon Solutions
+
+exploring:
+  - Generative AI
+  - Data Analytics
+  - Backend Development
+  - Machine Learning
+  - Open Source Development
+
+open_to:
+  - Software Development Internships
+  - Full Stack Development Opportunities
+  - AI and Machine Learning Opportunities
+  - Hackathons
+  - Open Source Contributions
+```
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="mailto:mmaaishwarya@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-CONTACT_ME-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/m-a-aishwarya-0b00292a3">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Aishwarya26953">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Learning by building. Growing through challenges. Turning ideas into working projects.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:312E81,70:6D28D9,100:7C3AED&height=120&section=footer"/>
+
+</div>
 | **Hackathon Participant** | TCE, Gadag |
 | **Hackathon Participant** | Rural Engineering College, Hulkoti |
 | **Overall Participation** | Participated in 6+ hackathons and collaborative technology competitions |
