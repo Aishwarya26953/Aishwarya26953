@@ -505,14 +505,13 @@ Completed through Forage · June 2026
      alt="GitHub Streak"/>
 
 </div>
-
 ---
 
-## Contribution Activity
+## GitHub Trophies
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aishwarya26953&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aishwarya26953&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
