@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:312E81,70:6D28D9,100:7C3AED&height=220&section=header&text=M.%20A.%20Aishwarya&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20Developer%20%7C%20Hackathon%20Enthusiast&descAlignY=56&descSize=17&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:312E81,70:6D28D9,100:7C3AED&height=220&section=header&text=M.%20A.%20Aishwarya&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=56&descSize=16&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+Projects+%26+Learning+by+Doing;Exploring+Full+Stack+Development+%26+AI%2FML;6%2B+Hackathons+%7C+3+Hackathon+Awards;Turning+Ideas+Into+Working+Projects" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+Projects+%26+Learning+by+Doing;Exploring+Full+Stack+Development+%26+AI%2FML;6%2B+Hackathons+%7C+3+Hackathon+Awards;GenAI+Powered+Data+Analytics+Job+Simulation;Turning+Ideas+Into+Working+Projects" alt="Typing SVG"/>
 
 <br/>
 
@@ -21,9 +21,7 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Aishwarya26953&label=PROFILE+VIEWS&color=6D28D9&style=flat-square"/>
-
 <img src="https://img.shields.io/github/followers/Aishwarya26953?label=FOLLOWERS&style=flat-square&color=4F46E5"/>
-
 <img src="https://img.shields.io/github/stars/Aishwarya26953?affiliations=OWNER&label=STARS&style=flat-square&color=7C3AED"/>
 
 </div>
@@ -32,18 +30,20 @@
 
 ## About Me
 
-I am **M A Aishwarya**, a Computer Science Engineering student interested in software development, full-stack development, Artificial Intelligence, and Machine Learning.
+I am **M A Aishwarya**, a Computer Science Engineering student interested in **Software Development, Full Stack Development, Artificial Intelligence, Machine Learning, and Generative AI**.
 
 I am currently pursuing my **Bachelor of Engineering in Computer Science and Engineering at SKSVMACET, Lakshmeshwar (2023–2027)** with a **CGPA of 8.75/10**.
 
-I enjoy learning through hands-on development, building projects, participating in hackathons, and improving my programming and problem-solving skills.
+I enjoy learning through hands-on development, building software projects, participating in hackathons, completing industry simulations, and continuously improving my programming and problem-solving skills.
 
-- Participated in **6+ hackathons**.
-- Received **2 Best Project Awards**.
-- Received **1 Best UI/UX Award**.
+- Participated in **6+ hackathons**, including national-level hackathons.
+- Received **2 Best Project Awards** and **1 Best UI/UX Award**.
+- Participated in the **24-hour National Level Hackathon — HACK-OLYMPIC 2026** at JSS Science and Technology University, Mysuru.
+- Received **Certificate of Excellence** and **Certificate of Participation** in **Devengers DevQuest 2026 — Frontend, Programming & DSA Challenge**.
+- Completed the **Tata GenAI Powered Data Analytics Job Simulation through Forage**.
 - Completed internships in **Java Programming, Web Development, and AI & Machine Learning**.
-- Built projects using **Python, Java, C, HTML, CSS, JavaScript, React.js, Node.js, Flutter, Dart, MySQL, and MongoDB**.
-- Interested in software development opportunities, internships, hackathons, and open-source collaboration.
+- Built projects using **Python, Java, C, HTML, CSS, JavaScript, React.js, Node.js, Flutter, Dart, FastAPI, MySQL, and MongoDB**.
+- Interested in software development internships, full-stack development, AI/ML opportunities, hackathons, and open-source collaboration.
 
 ---
 
@@ -56,51 +56,31 @@ I enjoy learning through hands-on development, building projects, participating 
 <tr>
 
 <td align="center" width="25%">
-
 <h3>8.75 / 10</h3>
-
 <b>CGPA</b>
-
-<br/>
-
+<br/><br/>
 B.E. Computer Science
-
 </td>
 
 <td align="center" width="25%">
-
 <h3>6+</h3>
-
 <b>Hackathons</b>
-
-<br/>
-
-Hands-on Development
-
+<br/><br/>
+Including National-Level Events
 </td>
 
 <td align="center" width="25%">
-
 <h3>3</h3>
-
 <b>Hackathon Awards</b>
-
-<br/>
-
+<br/><br/>
 Project & UI/UX Awards
-
 </td>
 
 <td align="center" width="25%">
-
 <h3>3</h3>
-
 <b>Internships</b>
-
-<br/>
-
+<br/><br/>
 Java · Web · AI/ML
-
 </td>
 
 </tr>
@@ -133,15 +113,15 @@ Java · Web · AI/ML
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,mysql,mongodb"/>
 
 </div>
 
-### Tools
+### Development Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
 
 </div>
 
@@ -157,15 +137,16 @@ Java · Web · AI/ML
 
 ### Smart Campus Management System
 
-A full-stack campus management application built to manage campus-related workflows through a centralized platform.
+A full-stack campus management application developed to manage campus-related workflows through a centralized digital platform.
 
-**Work Done**
+**Key Work**
 
 - Frontend and backend development
-- FastAPI backend integration
-- Database connectivity
-- API communication
-- Frontend and backend deployment
+- FastAPI backend implementation
+- MySQL database integration
+- REST API communication
+- Authentication and application workflows
+- Frontend and backend cloud deployment
 
 **Technologies**
 
@@ -177,14 +158,15 @@ A full-stack campus management application built to manage campus-related workfl
 
 ### Mental AI Engine
 
-An AI-based workforce analytics system built using React.js, Node.js, and MongoDB.
+An AI-based workforce analytics system developed using React.js, Node.js, and MongoDB.
 
-**Work Done**
+**Key Work**
 
 - React.js frontend development
 - Node.js backend development
 - MongoDB database integration
 - Full-stack application workflows
+- Data-driven application features
 
 **Technologies**
 
@@ -200,18 +182,21 @@ An AI-based workforce analytics system built using React.js, Node.js, and MongoD
 
 ### AI Coding Assistant App
 
-An AI coding assistant application built using Flutter and Dart for coding support through a chat-style interface.
+A cross-platform AI coding assistant application developed using Flutter, Dart, Python, and FastAPI.
 
-**Work Done**
+**Key Work**
 
-- Flutter application development
 - Chat-style user interface
-- AI-assisted coding functionality
-- Coding support features
+- AI-powered code generation
+- Code explanation functionality
+- Debugging assistance
+- Flutter frontend development
+- FastAPI backend integration
+- AI API integration
 
 **Technologies**
 
-`Flutter` `Dart` `AI`
+`Flutter` `Dart` `Python` `FastAPI` `AI`
 
 </td>
 
@@ -219,14 +204,14 @@ An AI coding assistant application built using Flutter and Dart for coding suppo
 
 ### Mental Portal
 
-An AI-powered mental wellness platform with self-assessment and real-time chat support.
+An AI-powered mental wellness platform with self-assessment and real-time conversational support.
 
-**Work Done**
+**Key Work**
 
 - Self-assessment functionality
 - Interactive web interface
 - Real-time chat support
-- AI-powered project features
+- AI-powered application features
 
 **Technologies**
 
@@ -244,12 +229,12 @@ An AI-powered mental wellness platform with self-assessment and real-time chat s
 
 A personalized student dashboard developed using HTML, CSS, and JavaScript.
 
-**Work Done**
+**Key Work**
 
 - Personalized student dashboard
 - Frontend development
 - Interactive web pages
-- Educational technology project
+- Educational technology workflows
 
 **Technologies**
 
@@ -261,13 +246,13 @@ A personalized student dashboard developed using HTML, CSS, and JavaScript.
 
 ### Farm Marketing System
 
-A web development project focused on a farm marketing use case.
+A web development project focused on applying technology to an agricultural marketing use case.
 
-**Work Done**
+**Key Work**
 
 - Web application development
-- User interface development
-- Agriculture-focused project workflow
+- User interface implementation
+- Agriculture-focused application workflows
 
 **Technologies**
 
@@ -291,16 +276,16 @@ A web development project focused on a farm marketing use case.
 
 A real-time weather application developed using HTML, CSS, JavaScript, and the OpenWeatherMap API.
 
-**Work Done**
+**Key Work**
 
 - OpenWeatherMap API integration
-- Weather data retrieval
-- JavaScript functionality
-- Frontend interface development
+- Real-time weather data retrieval
+- JavaScript application logic
+- Responsive frontend development
 
 **Technologies**
 
-`HTML` `CSS` `JavaScript` `OpenWeatherMap API`
+`HTML` `CSS` `JavaScript` `REST API`
 
 <br/><br/>
 
@@ -314,13 +299,14 @@ A real-time weather application developed using HTML, CSS, JavaScript, and the O
 
 ### Typing Speed Test Game
 
-A simple typing speed test web application built using HTML, CSS, and JavaScript.
+An interactive typing speed test web application developed using HTML, CSS, and JavaScript.
 
-**Work Done**
+**Key Work**
 
-- Typing speed test functionality
-- Frontend interface development
+- Typing speed calculation
+- Accuracy measurement
 - JavaScript application logic
+- Interactive frontend interface
 
 **Technologies**
 
@@ -344,10 +330,9 @@ A simple typing speed test web application built using HTML, CSS, and JavaScript
 
 | Project | Description |
 |:---|:---|
-| **Portfolio Website** | Personal portfolio project for showcasing development work and skills |
-| **Resume & Biodata Project** | Web-based resume and biodata project |
-| **Machine Learning Work** | Data preprocessing, EDA, supervised machine learning algorithms, and model evaluation |
-| **Programming Assignments** | Hands-on programming, data processing, and academic development work |
+| **Portfolio Website** | Personal portfolio project for showcasing development work and technical skills |
+| **Machine Learning Work** | Data preprocessing, exploratory data analysis, supervised machine learning algorithms, and model evaluation |
+| **Programming Assignments** | Hands-on programming, data processing, feature engineering, and academic development work |
 
 <div align="center">
 
@@ -364,21 +349,24 @@ A simple typing speed test web application built using HTML, CSS, and JavaScript
 <div align="center">
 
 <img src="https://img.shields.io/badge/HACKATHONS-6%2B-6D28D9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AWARDS-3-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HACKATHON_AWARDS-3-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NATIONAL_LEVEL_HACKATHONS-PARTICIPANT-4F46E5?style=for-the-badge"/>
 
 </div>
 
 <br/>
 
-| Recognition | Event |
+| Recognition | Event & Details |
 |:---|:---|
-| **Best Project Award** | HuskyHack 1.0 — 6-Hour Hackathon, SKSVMACET Lakshmeshwar |
-| **Best Project Award** | CODEFIESTA 6.0 — 24-Hour Hackathon, SKSVMACET Lakshmeshwar |
-| **Best UI/UX Award** | HackFusion 2.0 — 24-Hour Hackathon, A.G.M.R College Varur |
-| **Hackathon Participation** | TCE, Gadag |
-| **Hackathon Participation** | Rural Engineering College, Hulkoti |
-| **Overall Participation** | Participated in 6+ hackathons |
+| **Best Project Award** | HuskyHack 1.0 — 6-Hour Hackathon, SKSVMACET, Lakshmeshwar |
+| **Best Project Award** | CODEFIESTA 6.0 — 24-Hour Hackathon, SKSVMACET, Lakshmeshwar |
+| **Best UI/UX Award** | HackFusion 2.0 — 24-Hour Hackathon, A.G.M.R College, Varur |
+| **National-Level Hackathon Participant** | HACK-OLYMPIC 2026 — 24-Hour National Level Hackathon at JSS Science and Technology University, Mysuru |
+| **Certificate of Excellence** | Devengers DevQuest 2026 — Frontend, Programming & DSA Challenge |
+| **Certificate of Participation** | Devengers DevQuest 2026 — Frontend, Programming & DSA Challenge |
+| **Hackathon Participant** | TCE, Gadag |
+| **Hackathon Participant** | Rural Engineering College, Hulkoti |
+| **Overall Participation** | Participated in 6+ hackathons and collaborative technology competitions |
 
 ---
 
@@ -396,7 +384,9 @@ A simple typing speed test web application built using HTML, CSS, and JavaScript
 
 Worked on Java programming and strengthened programming fundamentals.
 
-`Java`
+<br/>
+
+`Java` `Programming`
 
 </td>
 
@@ -407,6 +397,8 @@ Worked on Java programming and strengthened programming fundamentals.
 **TopperRank**
 
 Worked on web development and strengthened frontend development skills.
+
+<br/>
 
 `HTML` `CSS` `JavaScript`
 
@@ -420,6 +412,8 @@ Worked on web development and strengthened frontend development skills.
 
 Gained practical exposure to Artificial Intelligence and Machine Learning.
 
+<br/>
+
 `AI` `Machine Learning`
 
 </td>
@@ -430,7 +424,34 @@ Gained practical exposure to Artificial Intelligence and Machine Learning.
 
 ---
 
-## Certifications
+## Industry Experience & Job Simulations
+
+<details>
+
+<summary><b>Tata — GenAI Powered Data Analytics Job Simulation</b></summary>
+
+<br/>
+
+Completed the **GenAI Powered Data Analytics Job Simulation by Tata through Forage** in **June 2026**.
+
+### Practical Tasks
+
+- Exploratory data analysis and risk profiling
+- Predicting delinquency with AI
+- Business report and data storytelling for collections strategy
+- Implementing an AI-driven collections strategy
+
+**Skills & Areas**
+
+`Generative AI` `Data Analytics` `Exploratory Data Analysis` `Risk Profiling` `Predictive Analytics` `Business Insights`
+
+</details>
+
+---
+
+## Certifications & Professional Learning
+
+### Programming & Development
 
 <div align="center">
 
@@ -440,9 +461,31 @@ Gained practical exposure to Artificial Intelligence and Machine Learning.
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/Git_%26_GitHub-Mastering_Certification-4338CA?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
+
+### Professional Development
+
+<div align="center">
+
 <img src="https://img.shields.io/badge/NPTEL-Soft_Skills_Training-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Certification-Mastering_Git_%26_GitHub-4338CA?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/TATA-GenAI_Data_Analytics_Job_Simulation-4F46E5?style=for-the-badge"/>
+
+</div>
+
+### Hackathons & Technical Challenges
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HACK--OLYMPIC_2026-National_Level_Hackathon_Participant-6D28D9?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DevQuest_2026-Certificate_of_Excellence-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DevQuest_2026-Certificate_of_Participation-4F46E5?style=for-the-badge"/>
 
 </div>
 
@@ -506,28 +549,29 @@ learning:
   - Full Stack Development
   - Artificial Intelligence
   - Machine Learning
+  - Generative AI and Data Analytics
 
 building:
-  - Software Projects
-  - Web Applications
+  - Full Stack Applications
   - AI-Based Applications
+  - Software Engineering Projects
+  - Hackathon Solutions
 
-improving:
-  - Python
-  - Java
-  - Web Development
-  - Git and GitHub
+exploring:
+  - Generative AI
+  - Data Analytics
+  - Backend Development
+  - Machine Learning
+  - Open Source Development
 
 open_to:
   - Software Development Internships
-  - Web Development Opportunities
+  - Full Stack Development Opportunities
   - AI and Machine Learning Opportunities
   - Hackathons
   - Open Source Contributions
----
 Connect With Me
 <div align="center"> <a href="mailto:mmaaishwarya@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-CONTACT_ME-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/m-a-aishwarya-0b00292a3"> <img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Aishwarya26953"> <img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-312E81?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
----
 <div align="center">
 Learning by building. Growing through challenges. Turning ideas into working projects.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:312E81,70:6D28D9,100:7C3AED&height=120&section=footer"/> </div> ```
