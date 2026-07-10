@@ -1,20 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:4F46E5&height=220&section=header&text=M%20A%20AISHWARYA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=52&descSize=17" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:312E81,70:6D28D9,100:7C3AED&height=220&section=header&text=M.%20A.%20Aishwarya&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20Developer%20%7C%20Hackathon%20Enthusiast&descAlignY=56&descSize=17&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;B.E.+Computer+Science+Student;Turning+Ideas+Into+Code)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+Projects+%26+Learning+by+Doing;Exploring+Full+Stack+Development+%26+AI%2FML;6%2B+Hackathons+%7C+3+Hackathon+Awards;Turning+Ideas+Into+Working+Projects" alt="Typing SVG"/>
 
-![CGPA](https://img.shields.io/badge/CGPA-8.75%2F10-7C3AED?style=for-the-badge)
-![Degree](https://img.shields.io/badge/B.E.-Computer%20Science%20%2723--%2727-4F46E5?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Karnataka%2C%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-a-aishwarya-0b00292a3)
-[![Gmail](https://img.shields.io/badge/Email-mmaaishwarya%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmaaishwarya@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Aishwarya26953-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aishwarya26953)
+<a href="mailto:mmaaishwarya@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aishwarya26953&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Aishwarya26953?style=for-the-badge&color=4F46E5&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/Aishwarya26953?style=for-the-badge&color=8B5CF6&label=STARS)
+<a href="https://www.linkedin.com/in/m-a-aishwarya-0b00292a3">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Aishwarya26953">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Aishwarya26953&label=PROFILE+VIEWS&color=6D28D9&style=flat-square"/>
+
+<img src="https://img.shields.io/github/followers/Aishwarya26953?label=FOLLOWERS&style=flat-square&color=4F46E5"/>
+
+<img src="https://img.shields.io/github/stars/Aishwarya26953?affiliations=OWNER&label=STARS&style=flat-square&color=7C3AED"/>
 
 </div>
 
@@ -22,275 +32,502 @@
 
 ## About Me
 
-I'm a Computer Science undergraduate (2023–2027) at **SKSVMACET College, Laxmeshwar**, currently holding a CGPA of **8.75/10**. I build full-stack web applications and enjoy exploring practical AI integrations — from real-time data apps to AI-assisted tools. I'm active in hackathons and learn best by shipping projects end-to-end.
+I am **M A Aishwarya**, a Computer Science Engineering student interested in software development, full-stack development, Artificial Intelligence, and Machine Learning.
 
-- 🔭 **Currently building:** full-stack projects across the MERN stack, alongside AI-integrated tools
-- 🌱 **Currently learning:** advanced React patterns, backend architecture, and applied AI/ML concepts
-- 🤝 **Open to:** Software Engineering Internships, Full-Stack Development roles, and open-source collaboration
-- 💬 **Ask me about:** React.js, Node.js, MongoDB, Python, or hackathon war stories
-- ⚡ **Fun fact:** I've walked away with project/UI-UX awards from three different hackathons
+I am currently pursuing my **Bachelor of Engineering in Computer Science and Engineering at SKSVMACET, Lakshmeshwar (2023–2027)** with a **CGPA of 8.75/10**.
 
----
+I enjoy learning through hands-on development, building projects, participating in hackathons, and improving my programming and problem-solving skills.
 
-## Tech Stack
-
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=python,c&theme=dark" /></p>
-
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /></p>
-
-**Backend & Databases**
-<p><img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb&theme=dark" /></p>
-
-**Tooling**
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /></p>
+- Participated in **6+ hackathons**.
+- Received **2 Best Project Awards**.
+- Received **1 Best UI/UX Award**.
+- Completed internships in **Java Programming, Web Development, and AI & Machine Learning**.
+- Built projects using **Python, Java, C, HTML, CSS, JavaScript, React.js, Node.js, Flutter, Dart, MySQL, and MongoDB**.
+- Interested in software development opportunities, internships, hackathons, and open-source collaboration.
 
 ---
 
-## AI / ML Exposure
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| AI-Assisted Applications | Hands-on project experience | Built an AI coding assistant (Flutter/Dart) offering ChatGPT-style coding support |
-| Conversational AI Integration | Hands-on project experience | Developed a mental-wellness platform with self-assessment tools and real-time AI chat support |
-| Applied Data-Driven Systems | Foundational | Built a workforce analytics engine on React.js, Node.js, and MongoDB |
-| Python for AI/ML | Foundational | Completed foundational Python programming coursework (Great Learning Academy) |
-
----
-
-## Featured Projects
-
-<details>
-<summary><b>⌨️ Typing Speed Test Game</b></summary>
-<br>
-
-A browser-based typing speed test that measures words-per-minute and accuracy in real time.
-
-| Aspect | Details |
-|---|---|
-| Stack | HTML, CSS, JavaScript |
-| Scale | Personal / academic project |
-| Highlights | Real-time WPM & accuracy tracking, live timer, instant feedback UI |
-| Security | Client-side input validation |
-| Impact | Strengthened DOM manipulation, event handling, and timing logic |
-| Repository | [View on GitHub](https://github.com/Aishwarya26953?tab=repositories) |
-
-</details>
-
-<details>
-<summary><b>🌦️ Weather Report Website</b></summary>
-<br>
-
-A real-time weather application pulling live conditions via the OpenWeatherMap API.
-
-| Aspect | Details |
-|---|---|
-| Stack | HTML, CSS, JavaScript, OpenWeatherMap API |
-| Scale | Personal / academic project |
-| Highlights | Live weather data via REST API, location-based search, responsive layout |
-| Security | Client-side request handling with input sanitization |
-| Impact | Hands-on experience with third-party API integration and async JavaScript |
-| Repository | [View on GitHub](https://github.com/Aishwarya26953?tab=repositories) |
-
-</details>
-
-<details>
-<summary><b>📚 Study Portal (EdTech)</b></summary>
-<br>
-
-A personalized student dashboard for organizing study material and tracking progress.
-
-| Aspect | Details |
-|---|---|
-| Stack | HTML, CSS, JavaScript |
-| Scale | Personal / academic project |
-| Highlights | Personalized dashboard, structured content organization |
-| Security | Client-side form validation |
-| Impact | Practiced building multi-section dashboards with clean UI structure |
-| Repository | [View on GitHub](https://github.com/Aishwarya26953?tab=repositories) |
-
-</details>
-
-<details>
-<summary><b>🧠 Mental Portal</b></summary>
-<br>
-
-An AI-powered mental wellness platform combining self-assessment tools with real-time chat support.
-
-| Aspect | Details |
-|---|---|
-| Stack | HTML, CSS, JavaScript, AI chat integration |
-| Scale | Personal / academic project |
-| Highlights | Self-assessment module, real-time AI-powered chat support |
-| Security | Input validation on assessment forms |
-| Impact | Explored designing sensitive, user-centered wellness interfaces |
-| Repository | [View on GitHub](https://github.com/Aishwarya26953?tab=repositories) |
-
-</details>
-
-<details>
-<summary><b>🤖 AI Coding Assistant App</b></summary>
-<br>
-
-A cross-platform mobile app offering AI-powered coding assistance, similar in spirit to ChatGPT.
-
-| Aspect | Details |
-|---|---|
-| Stack | Flutter, Dart |
-| Scale | Personal / academic project |
-| Highlights | Cross-platform mobile app, AI-assisted coding support |
-| Security | No sensitive data storage on-device |
-| Impact | Gained experience with Flutter/Dart and AI API integration |
-| Repository | [View on GitHub](https://github.com/Aishwarya26953?tab=repositories) |
-
-</details>
-
-<details>
-<summary><b>📊 Mental AI Engine</b></summary>
-<br>
-
-An AI-based workforce analytics system built on the MERN stack.
-
-| Aspect | Details |
-|---|---|
-| Stack | React.js, Node.js, MongoDB |
-| Scale | Personal / academic project |
-| Highlights | AI-based analytics engine, dashboard-driven insights |
-| Security | MongoDB-backed storage with server-side handling via Node.js |
-| Impact | Practiced full MERN architecture for analytics-driven applications |
-| Repository | [View on GitHub](https://github.com/Aishwarya26953?tab=repositories) |
-
-</details>
-
----
-
-## Internship Experience
-
-**Java Programming Internship** — InternPe
-Applied core Java concepts through structured internship tasks; strengthened OOP fundamentals and problem-solving.
-`Java` `OOP` `Problem Solving`
-
-**Web Development Internship** — TopperRank
-Gained hands-on exposure to front-end web development practices through guided projects.
-`HTML` `CSS` `JavaScript`
-
-**AI & ML Internship** — Aenexz.in
-Explored foundational AI & ML concepts through internship coursework and applied exercises.
-`AI/ML Fundamentals` `Python`
-
----
-
-## Achievements
+## Highlights
 
 <div align="center">
 
-| 🏆 Recognition | Details |
-|---|---|
-| Best Project Award | HuskyHack 1.0 — 6-Hour Hackathon, SKSVMACET Lakshmeshwar |
-| Best Project Award | CODEFIESTA-6.0 — 24-Hour Hackathon, SKSVMACET Lakshmeshwar |
-| Best UI/UX Award | HackFusion 2.0 — 24-Hour Hackathon, A.G.M.R College Varur |
-| Hackathon Participant | TCE, Gadag |
-| Hackathon Participant | Rural Engineering College, Hulkoti |
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+<h3>8.75 / 10</h3>
+
+<b>CGPA</b>
+
+<br/>
+
+B.E. Computer Science
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>6+</h3>
+
+<b>Hackathons</b>
+
+<br/>
+
+Hands-on Development
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>3</h3>
+
+<b>Hackathon Awards</b>
+
+<br/>
+
+Project & UI/UX Awards
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>3</h3>
+
+<b>Internships</b>
+
+<br/>
+
+Java · Web · AI/ML
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-## Certifications
+## Tech Stack
 
-**IIT Bombay**
-![C Programming](https://img.shields.io/badge/Online%20C%20Programming%20Test-IIT%20Bombay-7C3AED?style=flat-square)
+### Programming Languages
 
-**Great Learning Academy**
-![Python](https://img.shields.io/badge/Basic%20Python%20Programming-Great%20Learning-4F46E5?style=flat-square)
+<div align="center">
 
-**NPTEL**
-![Soft Skills](https://img.shields.io/badge/Soft%20Skills%20Training-NPTEL-8B5CF6?style=flat-square)
+<img src="https://skillicons.dev/icons?i=python,c,java,js,dart"/>
 
-**Version Control**
-![Git & GitHub](https://img.shields.io/badge/Mastering%20Git%20%26%20GitHub-Certified-6D28D9?style=flat-square)
+</div>
+
+### Frontend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter"/>
+
+</div>
+
+### Backend & Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb"/>
+
+</div>
+
+### Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</div>
 
 ---
 
-## Coding Profiles
+## Featured Projects
 
-*(Links pending — share your usernames for LeetCode, GeeksforGeeks, HackerRank, and CodeChef and these badges will be wired up.)*
+<table>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Add%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Add%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Add%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Add%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+<tr>
+
+<td width="50%" valign="top">
+
+### Smart Campus Management System
+
+A full-stack campus management application built to manage campus-related workflows through a centralized platform.
+
+**Work Done**
+
+- Frontend and backend development
+- FastAPI backend integration
+- Database connectivity
+- API communication
+- Frontend and backend deployment
+
+**Technologies**
+
+`Python` `FastAPI` `MySQL` `REST API` `Web Development`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Mental AI Engine
+
+An AI-based workforce analytics system built using React.js, Node.js, and MongoDB.
+
+**Work Done**
+
+- React.js frontend development
+- Node.js backend development
+- MongoDB database integration
+- Full-stack application workflows
+
+**Technologies**
+
+`React.js` `Node.js` `MongoDB`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### AI Coding Assistant App
+
+An AI coding assistant application built using Flutter and Dart for coding support through a chat-style interface.
+
+**Work Done**
+
+- Flutter application development
+- Chat-style user interface
+- AI-assisted coding functionality
+- Coding support features
+
+**Technologies**
+
+`Flutter` `Dart` `AI`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Mental Portal
+
+An AI-powered mental wellness platform with self-assessment and real-time chat support.
+
+**Work Done**
+
+- Self-assessment functionality
+- Interactive web interface
+- Real-time chat support
+- AI-powered project features
+
+**Technologies**
+
+`Web Development` `AI`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Study Portal EdTech
+
+A personalized student dashboard developed using HTML, CSS, and JavaScript.
+
+**Work Done**
+
+- Personalized student dashboard
+- Frontend development
+- Interactive web pages
+- Educational technology project
+
+**Technologies**
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Farm Marketing System
+
+A web development project focused on a farm marketing use case.
+
+**Work Done**
+
+- Web application development
+- User interface development
+- Agriculture-focused project workflow
+
+**Technologies**
+
+`Web Development`
+
+<br/><br/>
+
+<a href="https://github.com/Aishwarya26953/Farm-Marketing-System">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6D28D9?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Weather Report Website
+
+A real-time weather application developed using HTML, CSS, JavaScript, and the OpenWeatherMap API.
+
+**Work Done**
+
+- OpenWeatherMap API integration
+- Weather data retrieval
+- JavaScript functionality
+- Frontend interface development
+
+**Technologies**
+
+`HTML` `CSS` `JavaScript` `OpenWeatherMap API`
+
+<br/><br/>
+
+<a href="https://github.com/Aishwarya26953/Weather-App">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-4F46E5?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Typing Speed Test Game
+
+A simple typing speed test web application built using HTML, CSS, and JavaScript.
+
+**Work Done**
+
+- Typing speed test functionality
+- Frontend interface development
+- JavaScript application logic
+
+**Technologies**
+
+`HTML` `CSS` `JavaScript`
+
+<br/><br/>
+
+<a href="https://github.com/Aishwarya26953/typing-speed-test">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## More GitHub Projects
+
+| Project | Description |
+|:---|:---|
+| **Portfolio Website** | Personal portfolio project for showcasing development work and skills |
+| **Resume & Biodata Project** | Web-based resume and biodata project |
+| **Machine Learning Work** | Data preprocessing, EDA, supervised machine learning algorithms, and model evaluation |
+| **Programming Assignments** | Hands-on programming, data processing, and academic development work |
+
+<div align="center">
+
+<a href="https://github.com/Aishwarya26953?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## Hackathons & Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HACKATHONS-6%2B-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AWARDS-3-7C3AED?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+| Recognition | Event |
+|:---|:---|
+| **Best Project Award** | HuskyHack 1.0 — 6-Hour Hackathon, SKSVMACET Lakshmeshwar |
+| **Best Project Award** | CODEFIESTA 6.0 — 24-Hour Hackathon, SKSVMACET Lakshmeshwar |
+| **Best UI/UX Award** | HackFusion 2.0 — 24-Hour Hackathon, A.G.M.R College Varur |
+| **Hackathon Participation** | TCE, Gadag |
+| **Hackathon Participation** | Rural Engineering College, Hulkoti |
+| **Overall Participation** | Participated in 6+ hackathons |
+
+---
+
+## Internship Experience
+
+<table>
+
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+### Java Programming Internship
+
+**InternPe**
+
+Worked on Java programming and strengthened programming fundamentals.
+
+`Java`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### Web Development Internship
+
+**TopperRank**
+
+Worked on web development and strengthened frontend development skills.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### AI & ML Internship
+
+**Aenexz.in**
+
+Gained practical exposure to Artificial Intelligence and Machine Learning.
+
+`AI` `Machine Learning`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/IIT_Bombay-Online_C_Programming_Test-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Great_Learning-Basic_Python_Programming-4F46E5?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NPTEL-Soft_Skills_Training-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Certification-Mastering_Git_%26_GitHub-4338CA?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
 
 ---
 
 ## GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aishwarya26953&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=7C3AED&text_color=c9d1d9" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=Aishwarya26953&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya26953&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" width="60%" />
-</p>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Aishwarya26953&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya26953&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Aishwarya26953&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+</div>
 
 ---
 
 ## GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aishwarya26953&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aishwarya26953&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
 
 ---
 
 ## Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aishwarya26953&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8B5CF6&line=7C3AED&point=ffffff" width="100%" />
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aishwarya26953&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
 
 ---
 
 ## Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Aishwarya26953/Aishwarya26953/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<div align="center">
 
-<sub>Note: this renders only after the snake GitHub Action workflow is added to your profile repository.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aishwarya26953/Aishwarya26953/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aishwarya26953/Aishwarya26953/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Aishwarya26953/Aishwarya26953/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ---
 
 ## Current Focus
 
 ```yaml
-Current_Focus:
-  learning:
-    - "Advanced React patterns & system design fundamentals"
-    - "Applied AI/ML concepts"
-  building:
-    - "Full-stack MERN applications"
-    - "AI-integrated tools and platforms"
-  exploring:
-    - "Cloud fundamentals & DevOps practices"
-  open_to:
-    - "Software Engineering Internships"
-    - "Full-Stack Development Roles"
-    - "Open Source Collaboration"
-```
+learning:
+  - Programming and Problem Solving
+  - Full Stack Development
+  - Artificial Intelligence
+  - Machine Learning
 
+building:
+  - Software Projects
+  - Web Applications
+  - AI-Based Applications
+
+improving:
+  - Python
+  - Java
+  - Web Development
+  - Git and GitHub
+
+open_to:
+  - Software Development Internships
+  - Web Development Opportunities
+  - AI and Machine Learning Opportunities
+  - Hackathons
+  - Open Source Contributions
 ---
-
-## Connect With Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-mmaaishwarya%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmaaishwarya@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-m--a--aishwarya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-a-aishwarya-0b00292a3)
-[![GitHub](https://img.shields.io/badge/GitHub-Aishwarya26953-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aishwarya26953)
-
+Connect With Me
+<div align="center"> <a href="mailto:mmaaishwarya@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-CONTACT_ME-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/m-a-aishwarya-0b00292a3"> <img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Aishwarya26953"> <img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-312E81?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
 ---
-
 <div align="center">
-
-*"Every project is a small proof that I can learn the thing I didn't know yesterday."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:4C1D95&height=150&section=footer" width="100%"/>
-
-</div>
+Learning by building. Growing through challenges. Turning ideas into working projects.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:312E81,70:6D28D9,100:7C3AED&height=120&section=footer"/> </div> ```
