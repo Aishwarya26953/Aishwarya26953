@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:312E81,70:6D28D9,100:7C3AED&height=220&section=header&text=M.%20A.%20Aishwarya&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=56&descSize=16&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+Projects+%26+Learning+by+Doing;Exploring+Full+Stack+Development+%26+AI%2FML;6%2B+Hackathons+%7C+3+Hackathon+Awards;GenAI+Powered+Data+Analytics+Job+Simulation;Turning+Ideas+Into+Working+Projects" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+Projects+%26+Learning+by+Doing;Exploring+Full+Stack+Development+%26+AI%2FML;6+Hackathons+%7C+3+Hackathon+Awards;Full+Stack+Development+%7C+AI%2FML+%7C+Generative+AI;Turning+Ideas+Into+Working+Projects" alt="Typing SVG"/>
 
 <br/>
 
@@ -36,7 +36,7 @@ I am currently pursuing my **Bachelor of Engineering in Computer Science and Eng
 
 I enjoy learning through hands-on development, building software projects, participating in hackathons, completing professional learning programs, and continuously improving my programming and problem-solving skills.
 
-- Participated in **6+ hackathons**, including national-level hackathons.
+- Participated in **6 hackathons**, including national-level, 24-hour, and 6-hour hackathons.
 - Received **2 Best Project Awards** and **1 Best UI/UX Award**.
 - Participated in the **24-Hour National-Level HACK-OLYMPIC 2026**.
 - Received **Certificate of Excellence** and **Certificate of Participation** in **Devengers DevQuest 2026**.
@@ -62,7 +62,7 @@ B.E. Computer Science
 </td>
 
 <td align="center" width="25%">
-<h3>6+</h3>
+<h3>6</h3>
 <b>Hackathons</b>
 <br/><br/>
 National & College Level
@@ -134,24 +134,26 @@ Java · Web · AI/ML
 
 <br/>
 
-A full-stack campus management application developed to manage campus-related workflows through a centralized digital platform.
+A deployed full-stack campus management platform designed to centralize academic and administrative workflows through a single web application. The project combines a modern frontend, FastAPI backend, REST APIs, authentication, and MySQL database integration.
 
 | Category | Details |
 |:---|:---|
-| **Stack** | Python, FastAPI, MySQL, REST API |
-| **Development** | Full Stack Development |
-| **Backend** | FastAPI REST API |
+| **Development** | Full Stack Web Application |
+| **Backend** | Python, FastAPI, REST APIs |
 | **Database** | MySQL |
-| **Deployment** | Frontend and Backend Cloud Deployment |
-| **Impact** | Centralized campus workflows and digital management |
+| **Core Features** | Authentication, Campus Workflows, Data Management |
+| **Deployment** | Frontend deployed on Vercel and Backend deployed on Render |
+| **Focus** | Building and deploying a complete full-stack application |
 
 **Key Work**
 
-- Developed frontend and backend application workflows.
-- Implemented REST APIs using FastAPI.
-- Integrated MySQL database connectivity.
-- Added authentication and application workflows.
-- Deployed frontend and backend services.
+- Designed and developed frontend and backend application workflows.
+- Built RESTful API endpoints using Python and FastAPI.
+- Integrated MySQL for persistent application data management.
+- Implemented authentication and protected application workflows.
+- Connected the deployed frontend with the cloud-hosted backend API.
+- Configured environment variables and deployment settings.
+- Deployed and tested the complete application using Vercel and Render.
 
 </details>
 
@@ -163,7 +165,7 @@ A full-stack campus management application developed to manage campus-related wo
 
 <br/>
 
-An AI-based workforce analytics system developed as a full-stack application.
+A full-stack AI-based workforce analytics application developed to explore how software systems can support employee data analysis and data-driven workforce insights.
 
 | Category | Details |
 |:---|:---|
@@ -171,15 +173,17 @@ An AI-based workforce analytics system developed as a full-stack application.
 | **Frontend** | React.js |
 | **Backend** | Node.js |
 | **Database** | MongoDB |
-| **Focus** | Workforce Analytics |
-| **Impact** | Data-driven workforce insights |
+| **Domain** | Workforce Analytics |
+| **Focus** | Full Stack Development and Data-Driven Applications |
 
 **Key Work**
 
-- Developed React.js frontend interfaces.
-- Implemented Node.js backend functionality.
-- Integrated MongoDB database.
-- Built full-stack application workflows.
+- Developed responsive frontend interfaces using React.js.
+- Implemented backend application functionality using Node.js.
+- Integrated MongoDB for application data storage.
+- Connected frontend components with backend functionality.
+- Developed workflows for managing workforce-related information.
+- Strengthened practical experience in full-stack application development.
 
 </details>
 
@@ -191,24 +195,27 @@ An AI-based workforce analytics system developed as a full-stack application.
 
 <br/>
 
-A cross-platform AI coding assistant application designed to support programmers with AI-powered coding functionality.
+A cross-platform AI-powered coding assistant application designed to help programmers generate, explain, debug, and improve source code through an interactive ChatGPT-style interface.
 
 | Category | Details |
 |:---|:---|
-| **Stack** | Flutter, Dart, Python, FastAPI |
-| **Frontend** | Flutter |
-| **Backend** | FastAPI |
-| **AI Features** | Code Generation, Explanation and Debugging |
-| **Platform** | Cross-Platform Application |
-| **Impact** | AI-assisted programming support |
+| **Frontend** | Flutter and Dart |
+| **Backend** | Python and FastAPI |
+| **AI Integration** | AI API Integration |
+| **Core Features** | Code Generation, Explanation and Debugging |
+| **Additional Features** | Image-to-Code Processing and Chat History |
+| **Platform** | Cross-Platform Application Development |
 
 **Key Work**
 
-- Developed a ChatGPT-style coding interface.
-- Added AI-powered code generation.
-- Added code explanation and debugging functionality.
-- Integrated Flutter frontend with FastAPI backend.
-- Integrated AI APIs.
+- Designed a ChatGPT-style conversational interface for programming assistance.
+- Developed AI-powered code generation functionality.
+- Implemented code explanation and debugging workflows.
+- Connected the Flutter frontend with FastAPI REST endpoints.
+- Worked on image-to-code functionality using OCR and AI processing.
+- Added syntax highlighting and code-copy functionality.
+- Implemented chat history storage and conversation management.
+- Explored cross-platform support for web, mobile, and desktop environments.
 
 </details>
 
@@ -220,21 +227,24 @@ A cross-platform AI coding assistant application designed to support programmers
 
 <br/>
 
-An AI-powered mental wellness platform with self-assessment and conversational support.
+An interactive AI-powered mental wellness web platform developed with self-assessment, questionnaire-based interaction, mood-related features, and conversational support.
 
 | Category | Details |
 |:---|:---|
-| **Domain** | AI & Web Development |
-| **Features** | Self-Assessment and Conversational Support |
-| **Interface** | Interactive Web Application |
-| **Focus** | Mental Wellness Technology |
+| **Domain** | AI and Web Development |
+| **Core Features** | Self-Assessment and Interactive Questionnaire |
+| **AI Features** | Conversational Support |
+| **Interface** | Responsive Interactive Web Application |
+| **Focus** | Applying AI Concepts to a Wellness-Oriented Application |
 
 **Key Work**
 
-- Developed self-assessment functionality.
-- Built an interactive web interface.
-- Implemented conversational support features.
-- Added AI-powered application functionality.
+- Developed interactive self-assessment functionality.
+- Built questionnaire-based application workflows.
+- Designed an engaging and responsive user interface.
+- Added conversational support functionality.
+- Worked on mood-related interactive application features.
+- Applied AI concepts within a complete web application project.
 
 </details>
 
@@ -246,20 +256,24 @@ An AI-powered mental wellness platform with self-assessment and conversational s
 
 <br/>
 
-A personalized student dashboard developed for an educational technology use case.
+A personalized EdTech web application developed to provide students with a centralized and interactive learning dashboard.
 
 | Category | Details |
 |:---|:---|
 | **Stack** | HTML, CSS, JavaScript |
-| **Domain** | EdTech |
-| **Interface** | Personalized Student Dashboard |
-| **Focus** | Interactive Learning Experience |
+| **Domain** | Educational Technology |
+| **Core Features** | Student Dashboard, Timetable and Notes |
+| **Interface** | Responsive and Animated Web Interface |
+| **Focus** | Improving Student Learning Organization |
 
 **Key Work**
 
-- Developed personalized student dashboard features.
-- Built interactive frontend pages.
-- Implemented educational technology workflows.
+- Developed a personalized student dashboard.
+- Built timetable and learning-resource interfaces.
+- Added notes-related functionality and educational workflows.
+- Implemented interactive frontend features using JavaScript.
+- Created responsive layouts for different screen sizes.
+- Worked on animations and modern UI elements for improved user experience.
 
 </details>
 
@@ -271,14 +285,22 @@ A personalized student dashboard developed for an educational technology use cas
 
 <br/>
 
-A web application focused on applying technology to an agricultural marketing use case.
+An agriculture-focused web application developed to explore how digital platforms can support farm marketing workflows and improve access to agricultural information.
 
 | Category | Details |
 |:---|:---|
 | **Domain** | Agriculture Technology |
-| **Development** | Web Development |
-| **Focus** | Farm Marketing Workflows |
-| **Interface** | Web Application |
+| **Development** | Web Application Development |
+| **Core Focus** | Farm Marketing Workflows |
+| **Interface** | Interactive Web Application |
+| **Purpose** | Applying Software Development to an Agricultural Use Case |
+
+**Key Work**
+
+- Developed web-based interfaces for agriculture-related workflows.
+- Applied frontend development concepts to a practical domain problem.
+- Organized application features around farm marketing requirements.
+- Improved practical experience in designing domain-focused software applications.
 
 <a href="https://github.com/Aishwarya26953/Farm-Marketing-System">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
@@ -294,14 +316,23 @@ A web application focused on applying technology to an agricultural marketing us
 
 <br/>
 
-A real-time weather application developed using the OpenWeatherMap API.
+A real-time weather web application that retrieves and displays current weather information using the OpenWeatherMap API.
 
 | Category | Details |
 |:---|:---|
 | **Stack** | HTML, CSS, JavaScript |
-| **API** | OpenWeatherMap API |
-| **Features** | Real-Time Weather Data |
+| **API Integration** | OpenWeatherMap API |
+| **Core Features** | City Search and Real-Time Weather Information |
 | **Development** | Frontend Web Development |
+| **Focus** | API Integration and Dynamic Data Rendering |
+
+**Key Work**
+
+- Integrated the OpenWeatherMap API with the frontend application.
+- Retrieved and displayed real-time weather information.
+- Implemented city-based weather search functionality.
+- Used JavaScript to process API responses and update the interface dynamically.
+- Strengthened practical knowledge of asynchronous JavaScript and external API integration.
 
 <a href="https://github.com/Aishwarya26953/Weather-App">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
@@ -317,14 +348,23 @@ A real-time weather application developed using the OpenWeatherMap API.
 
 <br/>
 
-An interactive typing speed test web application.
+An interactive JavaScript-based typing application designed to measure typing speed and accuracy through a browser-based user experience.
 
 | Category | Details |
 |:---|:---|
 | **Stack** | HTML, CSS, JavaScript |
-| **Features** | Typing Speed and Accuracy Measurement |
+| **Core Features** | Typing Speed and Accuracy Measurement |
+| **Application Type** | Interactive Browser Application |
 | **Development** | Frontend Web Development |
-| **Focus** | Interactive JavaScript Application |
+| **Focus** | JavaScript Logic and DOM Manipulation |
+
+**Key Work**
+
+- Developed real-time typing speed measurement functionality.
+- Implemented typing accuracy calculations.
+- Added interactive application behavior using JavaScript.
+- Used DOM manipulation to dynamically update results.
+- Designed a responsive and user-friendly interface.
 
 <a href="https://github.com/Aishwarya26953/typing-speed-test">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
@@ -356,7 +396,7 @@ An interactive typing speed test web application.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HACKATHONS-6%2B-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HACKATHONS-6-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AWARDS-3-7C3AED?style=for-the-badge"/>
 
 </div>
@@ -373,7 +413,7 @@ An interactive typing speed test web application.
 | **Certificate of Participation** | Devengers DevQuest 2026 — Frontend, Programming & DSA Challenge |
 | **Hackathon Participant** | TCE, Gadag |
 | **Hackathon Participant** | Rural Engineering College, Hulkoti |
-| **Overall Participation** | Participated in 6+ hackathons and technical competitions |
+| **Overall Participation** | Participated in 6 hackathons and technical competitions, including national-level, 24-hour, and 6-hour hackathons |
 
 ---
 
@@ -505,17 +545,6 @@ Completed through Forage · June 2026
      alt="GitHub Streak"/>
 
 </div>
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aishwarya26953&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
----
 
 ---
 
@@ -527,6 +556,8 @@ Completed through Forage · June 2026
      alt="Contribution Graph"/>
 
 </div>
+
+---
 
 ## Contribution Snake
 
