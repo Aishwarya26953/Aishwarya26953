@@ -501,13 +501,8 @@ Completed through Forage · June 2026
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Aishwarya26953&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya26953&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Aishwarya26953&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img src="https://streak-stats.demolab.com?user=Aishwarya26953&theme=transparent&hide_border=true&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA"
+     alt="GitHub Streak"/>
 
 </div>
 
@@ -527,11 +522,10 @@ Completed through Forage · June 2026
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aishwarya26953&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aishwarya26953&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true"
+     alt="Contribution Graph"/>
 
 </div>
-
----
 
 ## Contribution Snake
 
