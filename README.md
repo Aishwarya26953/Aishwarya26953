@@ -34,14 +34,15 @@ I am **M A Aishwarya**, a Computer Science Engineering student interested in **S
 
 I am currently pursuing my **Bachelor of Engineering in Computer Science and Engineering at SKSVMACET, Lakshmeshwar (2023–2027)** with a **CGPA of 8.75/10**.
 
-I enjoy learning through hands-on development, building software projects, participating in hackathons, completing industry simulations, and continuously improving my programming and problem-solving skills.
+I enjoy learning through hands-on development, building software projects, participating in hackathons, completing professional learning programs, and continuously improving my programming and problem-solving skills.
 
 - Participated in **6+ hackathons**, including national-level hackathons.
 - Received **2 Best Project Awards** and **1 Best UI/UX Award**.
-- Received **Certificate of Excellence** and **Certificate of Participation** in **Devengers DevQuest 2026 — Frontend, Programming & DSA Challenge**.
+- Participated in the **24-Hour National-Level HACK-OLYMPIC 2026**.
+- Received **Certificate of Excellence** and **Certificate of Participation** in **Devengers DevQuest 2026**.
+- Completed the **Tata GenAI Powered Data Analytics Job Simulation through Forage**.
 - Completed internships in **Java Programming, Web Development, and AI & Machine Learning**.
-- Built projects using **Python, Java, C, HTML, CSS, JavaScript, React.js, Node.js, Flutter, Dart, FastAPI, MySQL, and MongoDB**.
-- Interested in software development internships, full-stack development, AI/ML opportunities, hackathons, and open-source collaboration.
+- Interested in software development, full-stack development, AI/ML, Generative AI, hackathons, and open-source collaboration.
 
 ---
 
@@ -64,7 +65,7 @@ B.E. Computer Science
 <h3>6+</h3>
 <b>Hackathons</b>
 <br/><br/>
-Including National-Level Events
+National & College Level
 </td>
 
 <td align="center" width="25%">
@@ -127,200 +128,209 @@ Java · Web · AI/ML
 
 ## Featured Projects
 
-<table>
+<details>
 
-<tr>
+<summary><b>Smart Campus Management System</b></summary>
 
-<td width="50%" valign="top">
-
-### Smart Campus Management System
+<br/>
 
 A full-stack campus management application developed to manage campus-related workflows through a centralized digital platform.
 
-**Key Work**
-
-- Frontend and backend development
-- FastAPI backend implementation
-- MySQL database integration
-- REST API communication
-- Authentication and application workflows
-- Frontend and backend cloud deployment
-
-**Technologies**
-
-`Python` `FastAPI` `MySQL` `REST API` `Web Development`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Mental AI Engine
-
-An AI-based workforce analytics system developed using React.js, Node.js, and MongoDB.
+| Category | Details |
+|:---|:---|
+| **Stack** | Python, FastAPI, MySQL, REST API |
+| **Development** | Full Stack Development |
+| **Backend** | FastAPI REST API |
+| **Database** | MySQL |
+| **Deployment** | Frontend and Backend Cloud Deployment |
+| **Impact** | Centralized campus workflows and digital management |
 
 **Key Work**
 
-- React.js frontend development
-- Node.js backend development
-- MongoDB database integration
-- Full-stack application workflows
-- Data-driven application features
+- Developed frontend and backend application workflows.
+- Implemented REST APIs using FastAPI.
+- Integrated MySQL database connectivity.
+- Added authentication and application workflows.
+- Deployed frontend and backend services.
 
-**Technologies**
+</details>
 
-`React.js` `Node.js` `MongoDB`
+<br/>
 
-</td>
+<details>
 
-</tr>
+<summary><b>Mental AI Engine</b></summary>
 
-<tr>
+<br/>
 
-<td width="50%" valign="top">
+An AI-based workforce analytics system developed as a full-stack application.
 
-### AI Coding Assistant App
-
-A cross-platform AI coding assistant application developed using Flutter, Dart, Python, and FastAPI.
-
-**Key Work**
-
-- Chat-style user interface
-- AI-powered code generation
-- Code explanation functionality
-- Debugging assistance
-- Flutter frontend development
-- FastAPI backend integration
-- AI API integration
-
-**Technologies**
-
-`Flutter` `Dart` `Python` `FastAPI` `AI`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Mental Portal
-
-An AI-powered mental wellness platform with self-assessment and real-time conversational support.
+| Category | Details |
+|:---|:---|
+| **Stack** | React.js, Node.js, MongoDB |
+| **Frontend** | React.js |
+| **Backend** | Node.js |
+| **Database** | MongoDB |
+| **Focus** | Workforce Analytics |
+| **Impact** | Data-driven workforce insights |
 
 **Key Work**
 
-- Self-assessment functionality
-- Interactive web interface
-- Real-time chat support
-- AI-powered application features
+- Developed React.js frontend interfaces.
+- Implemented Node.js backend functionality.
+- Integrated MongoDB database.
+- Built full-stack application workflows.
 
-**Technologies**
+</details>
 
-`Web Development` `AI`
+<br/>
 
-</td>
+<details>
 
-</tr>
+<summary><b>AI Coding Assistant App</b></summary>
 
-<tr>
+<br/>
 
-<td width="50%" valign="top">
+A cross-platform AI coding assistant application designed to support programmers with AI-powered coding functionality.
 
-### Study Portal EdTech
-
-A personalized student dashboard developed using HTML, CSS, and JavaScript.
-
-**Key Work**
-
-- Personalized student dashboard
-- Frontend development
-- Interactive web pages
-- Educational technology workflows
-
-**Technologies**
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Farm Marketing System
-
-A web development project focused on applying technology to an agricultural marketing use case.
+| Category | Details |
+|:---|:---|
+| **Stack** | Flutter, Dart, Python, FastAPI |
+| **Frontend** | Flutter |
+| **Backend** | FastAPI |
+| **AI Features** | Code Generation, Explanation and Debugging |
+| **Platform** | Cross-Platform Application |
+| **Impact** | AI-assisted programming support |
 
 **Key Work**
 
-- Web application development
-- User interface implementation
-- Agriculture-focused application workflows
+- Developed a ChatGPT-style coding interface.
+- Added AI-powered code generation.
+- Added code explanation and debugging functionality.
+- Integrated Flutter frontend with FastAPI backend.
+- Integrated AI APIs.
 
-**Technologies**
+</details>
 
-`Web Development`
+<br/>
 
-<br/><br/>
+<details>
+
+<summary><b>Mental Portal</b></summary>
+
+<br/>
+
+An AI-powered mental wellness platform with self-assessment and conversational support.
+
+| Category | Details |
+|:---|:---|
+| **Domain** | AI & Web Development |
+| **Features** | Self-Assessment and Conversational Support |
+| **Interface** | Interactive Web Application |
+| **Focus** | Mental Wellness Technology |
+
+**Key Work**
+
+- Developed self-assessment functionality.
+- Built an interactive web interface.
+- Implemented conversational support features.
+- Added AI-powered application functionality.
+
+</details>
+
+<br/>
+
+<details>
+
+<summary><b>Study Portal EdTech</b></summary>
+
+<br/>
+
+A personalized student dashboard developed for an educational technology use case.
+
+| Category | Details |
+|:---|:---|
+| **Stack** | HTML, CSS, JavaScript |
+| **Domain** | EdTech |
+| **Interface** | Personalized Student Dashboard |
+| **Focus** | Interactive Learning Experience |
+
+**Key Work**
+
+- Developed personalized student dashboard features.
+- Built interactive frontend pages.
+- Implemented educational technology workflows.
+
+</details>
+
+<br/>
+
+<details>
+
+<summary><b>Farm Marketing System</b></summary>
+
+<br/>
+
+A web application focused on applying technology to an agricultural marketing use case.
+
+| Category | Details |
+|:---|:---|
+| **Domain** | Agriculture Technology |
+| **Development** | Web Development |
+| **Focus** | Farm Marketing Workflows |
+| **Interface** | Web Application |
 
 <a href="https://github.com/Aishwarya26953/Farm-Marketing-System">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6D28D9?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+</details>
 
-</tr>
+<br/>
 
-<tr>
+<details>
 
-<td width="50%" valign="top">
+<summary><b>Weather Report Website</b></summary>
 
-### Weather Report Website
+<br/>
 
-A real-time weather application developed using HTML, CSS, JavaScript, and the OpenWeatherMap API.
+A real-time weather application developed using the OpenWeatherMap API.
 
-**Key Work**
-
-- OpenWeatherMap API integration
-- Real-time weather data retrieval
-- JavaScript application logic
-- Responsive frontend development
-
-**Technologies**
-
-`HTML` `CSS` `JavaScript` `REST API`
-
-<br/><br/>
+| Category | Details |
+|:---|:---|
+| **Stack** | HTML, CSS, JavaScript |
+| **API** | OpenWeatherMap API |
+| **Features** | Real-Time Weather Data |
+| **Development** | Frontend Web Development |
 
 <a href="https://github.com/Aishwarya26953/Weather-App">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-4F46E5?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+</details>
 
-<td width="50%" valign="top">
+<br/>
 
-### Typing Speed Test Game
+<details>
 
-An interactive typing speed test web application developed using HTML, CSS, and JavaScript.
+<summary><b>Typing Speed Test Game</b></summary>
 
-**Key Work**
+<br/>
 
-- Typing speed calculation
-- Accuracy measurement
-- JavaScript application logic
-- Interactive frontend interface
+An interactive typing speed test web application.
 
-**Technologies**
-
-`HTML` `CSS` `JavaScript`
-
-<br/><br/>
+| Category | Details |
+|:---|:---|
+| **Stack** | HTML, CSS, JavaScript |
+| **Features** | Typing Speed and Accuracy Measurement |
+| **Development** | Frontend Web Development |
+| **Focus** | Interactive JavaScript Application |
 
 <a href="https://github.com/Aishwarya26953/typing-speed-test">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
-
-</tr>
-
-</table>
+</details>
 
 ---
 
@@ -330,7 +340,7 @@ An interactive typing speed test web application developed using HTML, CSS, and 
 |:---|:---|
 | **Portfolio Website** | Personal portfolio project for showcasing development work and technical skills |
 | **Machine Learning Work** | Data preprocessing, exploratory data analysis, supervised machine learning algorithms, and model evaluation |
-| **Programming Assignments** | Hands-on programming, data processing, feature engineering, and academic development work |
+| **Programming Assignments** | Programming, data processing, feature engineering, and academic development work |
 
 <div align="center">
 
@@ -347,8 +357,7 @@ An interactive typing speed test web application developed using HTML, CSS, and 
 <div align="center">
 
 <img src="https://img.shields.io/badge/HACKATHONS-6%2B-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HACKATHON_AWARDS-3-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NATIONAL_LEVEL_HACKATHONS-PARTICIPANT-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWARDS-3-7C3AED?style=for-the-badge"/>
 
 </div>
 
@@ -359,86 +368,12 @@ An interactive typing speed test web application developed using HTML, CSS, and 
 | **Best Project Award** | HuskyHack 1.0 — 6-Hour Hackathon, SKSVMACET, Lakshmeshwar |
 | **Best Project Award** | CODEFIESTA 6.0 — 24-Hour Hackathon, SKSVMACET, Lakshmeshwar |
 | **Best UI/UX Award** | HackFusion 2.0 — 24-Hour Hackathon, A.G.M.R College, Varur |
-| **National-Level Hackathon Participant** | HACK-OLYMPIC 2026 — 24-Hour National Level Hackathon at JSS Science and Technology University, Mysuru |
+| **National-Level Hackathon Participant** | HACK-OLYMPIC 2026 — 24-Hour National-Level Hackathon, JSS Science and Technology University, Mysuru |
 | **Certificate of Excellence** | Devengers DevQuest 2026 — Frontend, Programming & DSA Challenge |
 | **Certificate of Participation** | Devengers DevQuest 2026 — Frontend, Programming & DSA Challenge |
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aishwarya26953/Aishwarya26953/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aishwarya26953/Aishwarya26953/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Aishwarya26953/Aishwarya26953/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## Current Focus
-
-```yaml
-learning:
-  - Programming and Problem Solving
-  - Full Stack Development
-  - Artificial Intelligence
-  - Machine Learning
-  - Generative AI and Data Analytics
-
-building:
-  - Full Stack Applications
-  - AI-Based Applications
-  - Software Engineering Projects
-  - Hackathon Solutions
-
-exploring:
-  - Generative AI
-  - Data Analytics
-  - Backend Development
-  - Machine Learning
-  - Open Source Development
-
-open_to:
-  - Software Development Internships
-  - Full Stack Development Opportunities
-  - AI and Machine Learning Opportunities
-  - Hackathons
-  - Open Source Contributions
-```
-
----
-
-## Connect With Me
-
-<div align="center">
-
-<a href="mailto:mmaaishwarya@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-CONTACT_ME-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/m-a-aishwarya-0b00292a3">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Aishwarya26953">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Learning by building. Growing through challenges. Turning ideas into working projects.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:312E81,70:6D28D9,100:7C3AED&height=120&section=footer"/>
-
-</div>
 | **Hackathon Participant** | TCE, Gadag |
 | **Hackathon Participant** | Rural Engineering College, Hulkoti |
-| **Overall Participation** | Participated in 6+ hackathons and collaborative technology competitions |
+| **Overall Participation** | Participated in 6+ hackathons and technical competitions |
 
 ---
 
@@ -486,7 +421,7 @@ Gained practical exposure to Artificial Intelligence and Machine Learning.
 
 <br/>
 
-`AI` `Machine Learning`
+`Artificial Intelligence` `Machine Learning`
 
 </td>
 
@@ -496,32 +431,29 @@ Gained practical exposure to Artificial Intelligence and Machine Learning.
 
 ---
 
-## Industry Experience & Job Simulations
+## Certifications & Professional Learning
 
-<details>
+### Artificial Intelligence & Data Analytics
 
-<summary><b>Tata — GenAI Powered Data Analytics Job Simulation</b></summary>
+<div align="center">
+
+<img src="https://img.shields.io/badge/TATA-GenAI_Powered_Data_Analytics-4F46E5?style=for-the-badge"/>
+
+<br/><br/>
+
+<b>Tata — GenAI Powered Data Analytics Job Simulation</b>
 
 <br/>
 
-Completed the **GenAI Powered Data Analytics Job Simulation by Tata through Forage** in **June 2026**.
+Completed through Forage · June 2026
 
-### Practical Tasks
+<br/><br/>
 
-- Exploratory data analysis and risk profiling
-- Predicting delinquency with AI
-- Business report and data storytelling for collections strategy
-- Implementing an AI-driven collections strategy
+`Exploratory Data Analysis` · `Risk Profiling` · `Predictive Analytics` · `Generative AI` · `Business Insights`
 
-**Skills & Areas**
+</div>
 
-`Generative AI` `Data Analytics` `Exploratory Data Analysis` `Risk Profiling` `Predictive Analytics` `Business Insights`
-
-</details>
-
----
-
-## Certifications & Professional Learning
+<br/>
 
 ### Programming & Development
 
@@ -537,21 +469,23 @@ Completed the **GenAI Powered Data Analytics Job Simulation by Tata through Fora
 
 </div>
 
+<br/>
+
 ### Professional Development
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/NPTEL-Soft_Skills_Training-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/TATA-GenAI_Data_Analytics_Job_Simulation-4F46E5?style=for-the-badge"/>
-
 </div>
+
+<br/>
 
 ### Hackathons & Technical Challenges
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HACK--OLYMPIC_2026-National_Level_Hackathon_Participant-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HACK--OLYMPIC_2026-National_Level_Participant-6D28D9?style=for-the-badge"/>
 
 <br/><br/>
 
